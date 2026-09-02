@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IG Local</string>
+    <string name="username">Caysa Rara Kirani</string>
+    <string name="post_stat">100\npost</string>
+    <string name="follower_stat">100\nfollower</string>
+    <string name="following_stat">100\nfollowing</string>
+
+    <string name="bio_label">Bio</string>
+    <string name="bio_content">Mahasiswa Informatika. Suka ngoding dan jalan-jalan.</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="share_profile">Share profile</string>
+</resources>
